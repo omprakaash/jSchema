@@ -1,0 +1,23 @@
+{
+  "name": "jschema",
+  "version": "1.0.0",
+  "description": "Extracts Json Schema from Json Data",
+  "main": "jSchema.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omprakaash/jSchema.git"
+  },
+  "author": "Om Prakaash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omprakaash/jSchema/issues"
+  },
+  "homepage": "https://github.com/omprakaash/jSchema#readme",
+  "dependencies": {
+    "easy-json-schema": "0.0.2-beta",
+    "generate-schema": "^2.6.0"
+  }
+}
